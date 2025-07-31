@@ -10,7 +10,7 @@
 - **Hardware:** Embedded Systems (Arduino, Raspberry Pi, etc.)  
 - **Software:** C/C++, Python (for hardware programming)   
 
-> "Engineering is the art of turning science into reality."  
+
 
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
